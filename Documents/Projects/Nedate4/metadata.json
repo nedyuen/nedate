@@ -1,0 +1,6 @@
+{
+  "name": "Nedate",
+  "description": "A personal social meetup request platform to browse activities, experiences, and request custom social hangouts with Ned.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
